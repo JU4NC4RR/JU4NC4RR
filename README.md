@@ -15,26 +15,34 @@
 
 <hr/>
 
-## ⚒️My Skill Set⚒️  
-### 🌐Web Technologies 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postman,bootstrap,spring)](https://skillicons.dev)  
+<h2 align="center">⚒️My Skill Set⚒️ </h2>
 
-### 💻Programming Languages
+<h3 align="center">🌐Web Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postman,bootstrap,spring)](https://skillicons.dev)
+
+<h3 align="center">💻Programming Languages</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=java,c,java,py,r)](https://skillicons.dev)
 
-### 📄Scripting Languages
+<h3 align="center">📄Scripting Languages</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 
-### 📒Database
+<h3 align="center">📒Databases</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### 📚DevOps
+<h3 align="center">📚DevOps</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=arduino,docker,raspberrypi)](https://skillicons.dev)
 
-### 💾Operating Systems
+<h3 align="center">💾Operating Systems</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,mint,windows)](https://skillicons.dev)
 
-### ✒️Documentation Tools
+<h3 align="center">✒️Documentation Tools</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
 
 # 📊 GitHub Stats:

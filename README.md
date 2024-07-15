@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **Complete**
 
-💬 Ask me about **or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **anything [here](https://github.com/ju4nc4rr/ju4nc4rr/issues)**
  </div>
 
 <hr/>

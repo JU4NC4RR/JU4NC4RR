@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Complete**
+ 🔭 I’m currently working on **Kuaky**
  
- 🌱 I’m currently learning **Complete**
+ 🌱 I’m currently learning **RF**
 
 💬 Ask me about **anything [here](https://github.com/ju4nc4rr/ju4nc4rr/issues)**
  </div>

@@ -13,7 +13,7 @@
 💬 Ask me about **or anything [here](https://github.com/salesp07/salesp07/issues)**
  </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,docker,java,latex,py,powershell,postman,r,mysql	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,docker,java,latex,py,powershell,postman,r,mysql,mongodb)](https://skillicons.dev)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

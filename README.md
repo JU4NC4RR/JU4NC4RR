@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00DF1B&lines=Hi+There!+👋;+I'm+Juan+Carlos!;" />
 </h1>
 
-<h3 align="center">A cybersecurity engineering student from Spain 🇪🇸</h3>
+<h3 align="center">A Cybersecurity Engineering Student from Spain 🇪🇸</h3>
 
 <div align="center">
  

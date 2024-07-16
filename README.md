@@ -19,51 +19,37 @@
 
 <h3 align="center">🌐Web Technologies</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,postman,bootstrap,spring" />
-  </a>
 </p>
 
 <h3 align="center">💻Programming Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,py,r" />
-  </a>
 </p>
 
 <h3 align="center">📄Scripting Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell" />
-  </a>
 </p>
 
 <h3 align="center">📒Databases</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
 </p>
 
 <h3 align="center">📚DevOps</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,docker,raspberrypi" />
-  </a>
 </p>
 
 <h3 align="center">💾Operating Systems</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,mint,windows" />
-  </a>
 </p>
 
 <h3 align="center">✒️Documentation Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex" />
-  </a>
 </p>
 
 
